@@ -1,0 +1,6 @@
+.DS_Store
+scratch.txt
+charts/
+gpu-powercap/README.md
+# analysis only: merges results on the Mac after the runs
+gpu-powercap/aggregate.py
